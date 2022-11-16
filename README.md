@@ -6,9 +6,10 @@ This is a collection of Python scripts that I've written to help me with my day-
 
 ## Table of Contents
 
-| Tool Name | Description                                                                                                                                                                                                                |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pdf Maker | This script takes a list of files and creates a PDF from them. It's useful for creating a PDF from a bunch of images stored in multiple subdirectories with differnt extensions. We can also merge multiple PDFs into one. |
+| Tool Name    | Description                                                                                                                                                                                                                |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pdf Maker    | This script takes a list of files and creates a PDF from them. It's useful for creating a PDF from a bunch of images stored in multiple subdirectories with differnt extensions. We can also merge multiple PDFs into one. |
+| Video to GIF | This script takes a video file and converts it to a GIF. It's useful for creating a GIF from a video.                                                                                                                      |
 
 ---
 
