@@ -6,9 +6,9 @@ This is a collection of Python scripts that I've written to help me with my day-
 
 ## Table of Contents
 
-| Tool Name | Description                                                                                                                                                              |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Pdf Maker | This script takes a list of images from a directory and converts them into a PDF. This is useful for creating PDFs from a series of screenshots with various file types. |
+| Tool Name | Description                                                                                                                                                                                                                |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pdf Maker | This script takes a list of files and creates a PDF from them. It's useful for creating a PDF from a bunch of images stored in multiple subdirectories with differnt extensions. We can also merge multiple PDFs into one. |
 
 ---
 
